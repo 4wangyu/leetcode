@@ -39,7 +39,7 @@ const indexPage = indexDoc => (
       <script type="text/javascript">
         window.location.href = 'docs/${indexDoc}';
       </script>
-      <title>LeetCode Site Generator</title>
+      <title>LeetCode</title>
     </head>
 
     <body>
