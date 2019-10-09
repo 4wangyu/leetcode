@@ -9,6 +9,10 @@
         "title": "Add Two Numbers",
         "sidebar_label": "Add Two Numbers"
       },
+      "longest-palindromic-substring": {
+        "title": "Longest Palindromic Substring",
+        "sidebar_label": "Longest Palindromic Substring"
+      },
       "longest-substring-without-repeating-characters": {
         "title": "Longest Substring Without Repeating Characters",
         "sidebar_label": "Longest Substring Without Repeating Characters"
