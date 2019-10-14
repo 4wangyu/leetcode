@@ -25,6 +25,10 @@
         "title": "Reverse Integer",
         "sidebar_label": "Reverse Integer"
       },
+      "string-to-integer-atoi": {
+        "title": "String to Integer (atoi)",
+        "sidebar_label": "String to Integer (atoi)"
+      },
       "two-sum": {
         "title": "Two Sum",
         "sidebar_label": "Two Sum"
