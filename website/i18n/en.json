@@ -21,6 +21,10 @@
         "title": "Median of Two Sorted Arrays",
         "sidebar_label": "Median of Two Sorted Arrays"
       },
+      "palindrome-number": {
+        "title": "Palindrome Number",
+        "sidebar_label": "Palindrome Number"
+      },
       "reverse-integer": {
         "title": "Reverse Integer",
         "sidebar_label": "Reverse Integer"
