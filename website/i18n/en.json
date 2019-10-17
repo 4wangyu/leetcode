@@ -9,6 +9,10 @@
         "title": "Add Two Numbers",
         "sidebar_label": "Add Two Numbers"
       },
+      "container-with-most-water": {
+        "title": "Container With Most Water",
+        "sidebar_label": "Container With Most Water"
+      },
       "longest-palindromic-substring": {
         "title": "Longest Palindromic Substring",
         "sidebar_label": "Longest Palindromic Substring"
@@ -24,6 +28,10 @@
       "palindrome-number": {
         "title": "Palindrome Number",
         "sidebar_label": "Palindrome Number"
+      },
+      "regular-expression-matching": {
+        "title": "Regular Expression Matching",
+        "sidebar_label": "Regular Expression Matching"
       },
       "reverse-integer": {
         "title": "Reverse Integer",
