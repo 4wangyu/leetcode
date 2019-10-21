@@ -22,7 +22,6 @@ sidebar_label: Container With Most Water
 <pre>
 <strong>Input:</strong> [1,8,6,2,5,4,8,3,7]
 <strong>Output:</strong> 49</pre>
-
 </div>
 
 ## Solution(javascript)

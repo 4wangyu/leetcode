@@ -5,6 +5,10 @@
     "previous": "Previous",
     "tagline": "Generate your personal LeetCode website with one command!",
     "docs": {
+      "3sum": {
+        "title": "3Sum",
+        "sidebar_label": "3Sum"
+      },
       "add-two-numbers": {
         "title": "Add Two Numbers",
         "sidebar_label": "Add Two Numbers"
