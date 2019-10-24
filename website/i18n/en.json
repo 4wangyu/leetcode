@@ -13,6 +13,10 @@
         "title": "3Sum",
         "sidebar_label": "3Sum"
       },
+      "4sum": {
+        "title": "4Sum",
+        "sidebar_label": "4Sum"
+      },
       "add-two-numbers": {
         "title": "Add Two Numbers",
         "sidebar_label": "Add Two Numbers"
