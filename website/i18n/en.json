@@ -57,6 +57,10 @@
         "title": "Regular Expression Matching",
         "sidebar_label": "Regular Expression Matching"
       },
+      "remove-nth-node-from-end-of-list": {
+        "title": "Remove Nth Node From End of List",
+        "sidebar_label": "Remove Nth Node From End of List"
+      },
       "reverse-integer": {
         "title": "Reverse Integer",
         "sidebar_label": "Reverse Integer"
