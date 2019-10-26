@@ -77,6 +77,10 @@
         "title": "Two Sum",
         "sidebar_label": "Two Sum"
       },
+      "valid-parentheses": {
+        "title": "Valid Parentheses",
+        "sidebar_label": "Valid Parentheses"
+      },
       "zigzag-conversion": {
         "title": "ZigZag Conversion",
         "sidebar_label": "ZigZag Conversion"
