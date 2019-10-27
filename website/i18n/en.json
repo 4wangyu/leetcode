@@ -49,6 +49,10 @@
         "title": "Median of Two Sorted Arrays",
         "sidebar_label": "Median of Two Sorted Arrays"
       },
+      "merge-two-sorted-lists": {
+        "title": "Merge Two Sorted Lists",
+        "sidebar_label": "Merge Two Sorted Lists"
+      },
       "palindrome-number": {
         "title": "Palindrome Number",
         "sidebar_label": "Palindrome Number"
