@@ -53,6 +53,10 @@
         "title": "Median of Two Sorted Arrays",
         "sidebar_label": "Median of Two Sorted Arrays"
       },
+      "merge-k-sorted-lists": {
+        "title": "Merge k Sorted Lists",
+        "sidebar_label": "Merge k Sorted Lists"
+      },
       "merge-two-sorted-lists": {
         "title": "Merge Two Sorted Lists",
         "sidebar_label": "Merge Two Sorted Lists"
@@ -80,6 +84,10 @@
       "string-to-integer-atoi": {
         "title": "String to Integer (atoi)",
         "sidebar_label": "String to Integer (atoi)"
+      },
+      "swap-nodes-in-pairs": {
+        "title": "Swap Nodes in Pairs",
+        "sidebar_label": "Swap Nodes in Pairs"
       },
       "two-sum": {
         "title": "Two Sum",
