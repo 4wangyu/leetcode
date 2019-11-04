@@ -77,6 +77,10 @@
         "title": "Reverse Integer",
         "sidebar_label": "Reverse Integer"
       },
+      "reverse-nodes-in-k-group": {
+        "title": "Reverse Nodes in k-Group",
+        "sidebar_label": "Reverse Nodes in k-Group"
+      },
       "roman-to-integer": {
         "title": "Roman to Integer",
         "sidebar_label": "Roman to Integer"
