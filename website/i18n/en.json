@@ -69,6 +69,10 @@
         "title": "Regular Expression Matching",
         "sidebar_label": "Regular Expression Matching"
       },
+      "remove-duplicates-from-sorted-array": {
+        "title": "Remove Duplicates from Sorted Array",
+        "sidebar_label": "Remove Duplicates from Sorted Array"
+      },
       "remove-nth-node-from-end-of-list": {
         "title": "Remove Nth Node From End of List",
         "sidebar_label": "Remove Nth Node From End of List"
