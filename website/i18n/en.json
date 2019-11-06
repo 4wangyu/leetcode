@@ -73,6 +73,10 @@
         "title": "Remove Duplicates from Sorted Array",
         "sidebar_label": "Remove Duplicates from Sorted Array"
       },
+      "remove-element": {
+        "title": "Remove Element",
+        "sidebar_label": "Remove Element"
+      },
       "remove-nth-node-from-end-of-list": {
         "title": "Remove Nth Node From End of List",
         "sidebar_label": "Remove Nth Node From End of List"
