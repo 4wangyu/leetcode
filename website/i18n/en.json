@@ -25,9 +25,17 @@
         "title": "Container With Most Water",
         "sidebar_label": "Container With Most Water"
       },
+      "divide-two-integers": {
+        "title": "Divide Two Integers",
+        "sidebar_label": "Divide Two Integers"
+      },
       "generate-parentheses": {
         "title": "Generate Parentheses",
         "sidebar_label": "Generate Parentheses"
+      },
+      "implement-strstr": {
+        "title": "Implement strStr()",
+        "sidebar_label": "Implement strStr()"
       },
       "integer-to-roman": {
         "title": "Integer to Roman",
@@ -96,6 +104,10 @@
       "string-to-integer-atoi": {
         "title": "String to Integer (atoi)",
         "sidebar_label": "String to Integer (atoi)"
+      },
+      "substring-with-concatenation-of-all-words": {
+        "title": "Substring with Concatenation of All Words",
+        "sidebar_label": "Substring with Concatenation of All Words"
       },
       "swap-nodes-in-pairs": {
         "title": "Swap Nodes in Pairs",
