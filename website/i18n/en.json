@@ -29,6 +29,10 @@
         "title": "Divide Two Integers",
         "sidebar_label": "Divide Two Integers"
       },
+      "find-first-and-last-position-of-element-in-sorted-array": {
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "sidebar_label": "Find First and Last Position of Element in Sorted Array"
+      },
       "generate-parentheses": {
         "title": "Generate Parentheses",
         "sidebar_label": "Generate Parentheses"
@@ -57,6 +61,10 @@
         "title": "Longest Substring Without Repeating Characters",
         "sidebar_label": "Longest Substring Without Repeating Characters"
       },
+      "longest-valid-parentheses": {
+        "title": "Longest Valid Parentheses",
+        "sidebar_label": "Longest Valid Parentheses"
+      },
       "median-of-two-sorted-arrays": {
         "title": "Median of Two Sorted Arrays",
         "sidebar_label": "Median of Two Sorted Arrays"
@@ -68,6 +76,10 @@
       "merge-two-sorted-lists": {
         "title": "Merge Two Sorted Lists",
         "sidebar_label": "Merge Two Sorted Lists"
+      },
+      "next-permutation": {
+        "title": "Next Permutation",
+        "sidebar_label": "Next Permutation"
       },
       "palindrome-number": {
         "title": "Palindrome Number",
@@ -101,6 +113,14 @@
         "title": "Roman to Integer",
         "sidebar_label": "Roman to Integer"
       },
+      "search-in-rotated-sorted-array": {
+        "title": "Search in Rotated Sorted Array",
+        "sidebar_label": "Search in Rotated Sorted Array"
+      },
+      "search-insert-position": {
+        "title": "Search Insert Position",
+        "sidebar_label": "Search Insert Position"
+      },
       "string-to-integer-atoi": {
         "title": "String to Integer (atoi)",
         "sidebar_label": "String to Integer (atoi)"
@@ -120,6 +140,10 @@
       "valid-parentheses": {
         "title": "Valid Parentheses",
         "sidebar_label": "Valid Parentheses"
+      },
+      "valid-sudoku": {
+        "title": "Valid Sudoku",
+        "sidebar_label": "Valid Sudoku"
       },
       "zigzag-conversion": {
         "title": "ZigZag Conversion",

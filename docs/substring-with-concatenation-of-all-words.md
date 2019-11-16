@@ -44,11 +44,19 @@ var findSubstring = function(s, words) {
     const wordLen = words[0].length;
     const arrLen = words.reduce((acc,element) => acc + element.length, 0);
     const re = new RegExp('(.{' + wordLen + '})');
+    words = words.sort();
+    
+    function equalArr(arr1, arr2) {
+        for(let j = 0; j < arr1.length; j++){
+            if(arr1[j] != arr2[j]) return false;
+        }
+        return true;
+    }
     
     let rst = [];
     for(let i = 0; i <= s.length - arrLen; i++) {
-        const splitArr = s.substring(i, i+arrLen).split(re).filter(O=>O);
-        if(splitArr.sort().toString() == words.sort().toString()) rst.push(i);
+        const splitArr = s.slice(i, i+arrLen).split(re).filter(O=>O).sort();
+        if(equalArr(words, splitArr)) rst.push(i);
     }
     
     return rst;
