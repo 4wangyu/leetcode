@@ -157,6 +157,10 @@
         "title": "Maximum Length of Pair Chain",
         "sidebar_label": "Maximum Length of Pair Chain"
       },
+      "maximum-subarray": {
+        "title": "Maximum Subarray",
+        "sidebar_label": "Maximum Subarray"
+      },
       "median-of-two-sorted-arrays": {
         "title": "Median of Two Sorted Arrays",
         "sidebar_label": "Median of Two Sorted Arrays"
