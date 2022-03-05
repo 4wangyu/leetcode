@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "download": "leetcode-site download && npm run generate-docs",
+    "download": "leetcode-site download && yarn generate-docs",
     "generate-docs": "node ./scripts/generateDocs.js",
     "clear": "node ./scripts/clear.js",
     "start": "docusaurus-start",
@@ -12,6 +12,6 @@
   },
   "devDependencies": {
     "docusaurus": "^1.7.3",
-    "leetcode-site-generator": "*"
+    "leetcode-site-generator": "^0.2.0"
   }
 }
